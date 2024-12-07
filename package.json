@@ -1,12 +1,12 @@
 {
-  "name": "job_application_system_node",
+  "name": "watch_collection_node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index"
   },
-  "author": "",
+  "author": "Prem Deep",
   "license": "ISC",
   "dependencies": {
     "mongodb": "^5.3.0",

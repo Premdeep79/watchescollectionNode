@@ -1,56 +1,58 @@
-{"watches": [
+{
+  "watches": [
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Casio G-Shock Analog-Digital Black Dial Resin Band Men's Watch",
+      "brand": "Casio",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEYGNy-8WzTbwcWEMDopWN5Bw44IFd46fmQ&s",
+      "model": "GA2100-1A1",
+      "year_of_manufacture": "2020",
+      "price": "$99.95",
+      "features": "Shock Resistant, Water Resistant, LED Light, Stopwatch, World Time"
     },
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Fossil Hybrid HR Gen 5 Black Leather Smartwatch",
+      "brand": "Fossil",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9TNU2ncmiFZKh2lCrsJzaGmMAPb4VVREH6Q&s",
+      "model": "FTW4023",
+      "year_of_manufacture": "2021",
+      "price": "$179.99",
+      "features": "Heart Rate Monitor, Fitness Tracker, Water Resistant, Bluetooth, Smart Notifications"
     },
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Seiko 5 Automatic Blue Dial Stainless Steel Men's Watch",
+      "brand": "Seiko",
+      "image": "https://skeies.com/cdn/shop/files/SSK003_2_320x.png?v=1718925641",
+      "model": "SRPD55K1",
+      "year_of_manufacture": "2021",
+      "price": "$145.00",
+      "features": "Automatic Movement, Water Resistant, Day and Date Display, Stainless Steel Case"
     },
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Citizen Eco-Drive Chandler Analog Black Dial Nylon Band Men's Watch",
+      "brand": "Citizen",
+      "image": "https://citizenwatch.widen.net/content/1e0c30weeq/png/Nighthawk.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00",
+      "model": "BM8180-03E",
+      "year_of_manufacture": "2018",
+      "price": "$99.99",
+      "features": "Eco-Drive Solar Powered, Date Display, Water Resistant, Nylon Band"
     },
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Michael Kors Access Lexington Smartwatch",
+      "brand": "Michael Kors",
+      "image": "https://m.media-amazon.com/images/I/61kAXF6OO1L._AC_SL1400_.jpg",
+      "model": "MKT5069",
+      "year_of_manufacture": "2020",
+      "price": "$295.00",
+      "features": "Touchscreen, Fitness Tracker, Bluetooth, Notifications, Heart Rate Monitor"
     },
     {
-      "watch_name":"Armani Exchange Hampton Analog Black Dial Silver Band Men's Stainless Steel Watch",
-      "brand":"Armani Exchange",
-      "image": "https://m.media-amazon.com/images/I/611U2S5m7wL._SL1001_.jpg",
-      "model":"AX2103",
-      "year_of_manufacture":"2012",
-      "price":"₹13,299",
-      "features":"Water Resistant, Chronograph, Week, Date, Stop-watch"
+      "watch_name": "Bulova Classic Analog Black Dial Leather Band Men's Watch",
+      "brand": "Bulova",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrg4sPXMmUSileYHNnFaOgfCD2ZcHf-EFI-c1Cq7NF6_PM3S40VoxH0hTP-AmSFulZv806FqoqjMzf8G4slVS90yHmDG1S3ess5JqN-25EXbnn7lk_jKBg",
+      "model": "96B104",
+      "year_of_manufacture": "2019",
+      "price": "$179.00",
+      "features": "Quartz Movement, Date Display, Water Resistant, Leather Strap"
     }
-  ]}
+  ]
+}
